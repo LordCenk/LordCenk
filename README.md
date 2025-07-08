@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LordCenk
-- 👀 I’m interested in .Coding..
-- 🌱 I’m currently learning .artificial intelligence and machine learning..
-- 💞️ I’m looking to collaborate on .ML projects..
-- 📫 How to reach me through this platform or through discord.
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning artificial intelligence and machine learning
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 Reach me through this platform or through discord.
 - 😄 Pronouns: Shank...
 - ⚡ Fun fact: Psychopath..
 

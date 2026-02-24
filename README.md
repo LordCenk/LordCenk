@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 Reach me through this platform or through discord.
 - 😄 Pronouns: Shank...
-- ⚡ Fun fact: Psychopath..
+
 
 <!---
 LordCenk/LordCenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

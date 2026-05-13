@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @LordCenk
+- 👋 Hi, I’m @Lord Shashank Agrawal better known as LordCenk
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning artificial intelligence and machine learning
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I believe to survive i need to outcode others
 - 📫 Reach me through this platform or through discord.
-- 😄 Pronouns: Shank...
+- 😄 Pronouns: Shank...(don't like it call me by my full name)
 
 
 <!---
